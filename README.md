@@ -3,7 +3,7 @@
 
 This project is a web scraper that collects project data from the Gold Standard registry. The project utilizes three different methodologies:
 
-Selenium: Used for web automation and data extraction. File Assignment.py
+Selenium: Used for web automation and data extraction. File web_scraper.py
 API Calls: Employed to retrieve data. File assignment_api.py
 Scrapy Framework: Utilized for efficient web scraping.
 
