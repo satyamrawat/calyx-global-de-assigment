@@ -4,7 +4,9 @@
 This project is a web scraper that collects project data from the Gold Standard registry. The project utilizes three different methodologies:
 
 Selenium: Used for web automation and data extraction. File web_scraper.py
+
 API Calls: Employed to retrieve data. File assignment_api.py
+
 Scrapy Framework: Utilized for efficient web scraping.
 
 
@@ -24,7 +26,7 @@ For the API approach:
 pip install -r requirements_api.txt
 
 For the Scrapy framework:
-cd assignment_scrapy
+cd assigment_scrapy
 pip install -r requirements_scrapy.txt
 - To run scrapy spide use 
 scrapy crawl gold_standard -o projects.json
